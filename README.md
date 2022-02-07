@@ -20,7 +20,7 @@
 
 
 <h3 align="left"> Github Statistic:</h3>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rishi47sharma&show_icons=true&locale=en" alt="rishi47sharma" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=darshan-taskar&show_icons=true&locale=en" alt="darshan-taskar" /></p>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=darshan-taskar)](https://github.com/anuraghazra/github-readme-stats)
 
