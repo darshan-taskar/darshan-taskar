@@ -32,6 +32,7 @@
 
 <h3 align="left">Connect with me:</h3>  
 <p align="left">  
+<a href="https://dev.to/https://dev.to/darshan_taskar" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="https://dev.to/" height="30" width="40" /></a>
 <a href="https://twitter.com/darshan_taskar_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="darshan_taskar_" height="30" width="40" /></a>  
 <a href="https://linkedin.com/in/darshan-taskar-8667061a2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="darshan-taskar-8667061a2" height="30" width="40" /></a>  
  <a href="https://fb.com/darshan.taskar.22" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="darshan.taskar.22" height="30" width="40" /></a>  
