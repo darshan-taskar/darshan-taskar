@@ -12,6 +12,8 @@
 
 - 📫 How to reach me **programmingbeast22@gmail.com**  
 
+- ✈️ Hire me for remote work & internships
+
 - ⚡ Fun fact: ***I spent more than 10 hrs in front of my laptop.***
   
 
