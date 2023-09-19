@@ -4,9 +4,9 @@
   
 - 🔭 I’m a student of **Information Technology Engineering**  
   
-- 🌱 I’m currently learning **DevOps.**  
+- 🌱 I’m currently learning **Android Development.**  
   
-- 💬 Ask me about **Java, Kotlin, Go** 
+- 💬 Ask me about **Java, DSA, OOPs** 
 
 -  😄 Pronouns: **He/His**  
 
